@@ -28,6 +28,7 @@ The project implements multiple scoring approaches:
 - GSEA.r : Gene Set Enrichment Analysis
 - TrainScore.r : Training and evaluation of scoring models
 - TestScore.R : Testing and validation of scoring models
+- compare.R : Compare Pscore with PMID: 39296545(https://pubmed.ncbi.nlm.nih.gov/39296545/) and PMID: 36439479(https://pubmed.ncbi.nlm.nih.gov/36439479/)
 
 ## Requirements
 ### Python Dependencies
